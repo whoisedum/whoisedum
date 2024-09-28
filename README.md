@@ -8,10 +8,10 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-F55247?style=flat-square&logo=laravel&logoColor=white)
 💞️ Contáctate conmigo:
 - [LinkedIn](www.linkedin.com/in/whoisedum)
+
+
 📫 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=whoisedum&show_icons=true&theme=radical)
 😄 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes. 🚀
-
-⚡ Fun fact: ...
 
 <!---
 whoisedum/whoisedum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
