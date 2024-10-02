@@ -3,7 +3,7 @@ Soy un desarrollador apasionado por el diseño web y la programación. Me encant
 
 
 
-🌱 Acualmente utilizo los siguientes lenguajes:
+🌱 Acualmente utilizo los siguientes lenguajes:   
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -12,15 +12,6 @@ Soy un desarrollador apasionado por el diseño web y la programación. Me encant
 
 
 
-
-
-💞️ Contáctate conmigo:
-- [LinkedIn](www.linkedin.com/in/whoisedum)
-
-
-📫 Te muestro mis estádisticas en GitHub.
-
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=whoisedum&show_icons=true&theme=radical)
 
 
 
