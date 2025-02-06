@@ -1,5 +1,5 @@
 👋 Hola, mi nombre es Eduardo, pero puedes llamarme Edu. 
-Soy un desarrollador apasionado por el diseño web y la programación. Me encanta aprender nuevas tecnologías y estoy siempre trabajando en proyectos interesantes.
+
 
 
 
