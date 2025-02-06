@@ -16,7 +16,7 @@
 
 
 
-😄 ¡Gracias por visitar mi perfil! Siempre estoy abierto a colaborar en proyectos interesantes. 🚀
+
 
 <!---
 whoisedum/whoisedum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
